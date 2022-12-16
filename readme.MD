@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://food3xplorer.netlify.app/">ClickedPoints :rocket: </a></h1>
+  <h1 align="center"><a href="https://screenclick.netlify.app/">ClickedPoints :rocket: </a></h1>
 </p>
 
 
@@ -17,7 +17,7 @@ ___
 ## 🎨 Layout
 A página funcionando em formato desktop é vista na imagem abaixo:
 
-![foodexplorer vercel app_](https://user-images.githubusercontent.com/106932234/204163348-5f06ae24-3ede-4bae-b68a-770493d1a286.png)
+![ScreenClick](https://user-images.githubusercontent.com/106932234/207999363-681023ce-99d2-4813-bbcd-b18ae96bd676.gif)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:andreviapiana/Food-Explorer.git
+$ git clone git@github.com:andreviapiana/ClickedPoints.git
 ```
 ___
 
@@ -44,14 +44,13 @@ ___
 ```bash
 
 # Navegue até o diretório
-$ cd food-explorer-backend
+$ cd ScreenClick
 
 # Instale as dependências necessárias
 $ npm install
 
 # Agora inicie o servidor do BackEnd
 $ npm run dev
-```
 
 # O terminal irá exibir o endereço local onde a aplicação está sendo executada. Basta digitar o mesmo endereço em seu navegador preferido. O endereço usado na criação do projeto foi este:
 
@@ -61,4 +60,4 @@ $ npm run dev
 ___
 
 
-[O resultado FINAL pode ser visto aqui](https://food3xplorer.netlify.app/)
+[O resultado FINAL pode ser visto aqui](https://screenclick.netlify.app/)
