@@ -10,7 +10,7 @@ ___
 ## 💻 Sobre
 A ideia deste projeto é criar uma página que capture e exiba uma bolinha na tela quando o mouse for clicado. A bolinha deve aparecer e permanecer na posição exata em que o mouse é clicado.
 A página tem ainda um botão Undo e um botão Redo, que torna possível apagar e retornar com as bolinhas que forem apagadas da tela.
-Todas essas informações são salvar dentro de Arrays utilizando o useState do React.
+Todas essas informações são salvas dentro de Arrays utilizando o useState do React.
 
 ___
 
